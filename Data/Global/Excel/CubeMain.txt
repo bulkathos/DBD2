@@ -72,38 +72,60 @@ assassin tab 3 charm	1			100				ass	5	cm3,mag	rin,uni	gem3,qty=3					cm3,mag,pre
 2 flawed skulls -> standard skull	1			0					2	skf,qty=2							sku																																																																																							0
 2 standard skulls -> flawless skull	1			0					2	sku,qty=2							skl																																																																																							0
 2 flawless skulls -> perfect skull	1			0					2	skl,qty=2							skz																																																																																							0
-2 rune 01 -> rune 02	1			100					2	r01,qty=2							r02																																																																																							0
-2 rune 02 -> rune 03	1			100					2	r02,qty=2							r03																																																																																							0
-2 rune 03 -> rune 04	1			100					2	r03,qty=2							r04																																																																																							0
-2 rune 04 -> rune 05	1			100					2	r04,qty=2							r05																																																																																							0
-2 rune 05 -> rune 06	1			100					2	r05,qty=2							r06																																																																																							0
-2 rune 06 -> rune 07	1			100					2	r06,qty=2							r07																																																																																							0
-2 rune 07 -> rune 08	1			100					2	r07,qty=2							r08																																																																																							0
-2 rune 08 -> rune 09	1			100					2	r08,qty=2							r09																																																																																							0
-2 rune 09 -> rune 10	1			100					2	r09,qty=2							r10																																																																																							0
-2 rune 10 -> rune 11	1			100					2	r10,qty=2							r11																																																																																							0
-2 rune 11 -> rune 12	1			100					2	r11,qty=2							r12																																																																																							0
-2 rune 12 -> rune 13	1			100					2	r12,qty=2							r13																																																																																							0
-2 rune 13 -> rune 14	1			100					2	r13,qty=2							r14																																																																																							0
-2 rune 14 -> rune 15	1			100					2	r14,qty=2							r15																																																																																							0
-2 rune 15 -> rune 16	1			100					2	r15,qty=2							r16																																																																																							0
-2 rune 16 -> rune 17	1			100					2	r16,qty=2							r17																																																																																							0
-2 rune 17 -> rune 18	1			100					2	r17,qty=2							r18																																																																																							0
-2 rune 18 -> rune 19	1			100					2	r18,qty=2							r19																																																																																							0
-2 rune 19 -> rune 20	1			100					2	r19,qty=2							r20																																																																																							0
-2 rune 20 -> rune 21	1			100					2	r20,qty=2							r21																																																																																							0
-2 rune 21 -> rune 22	1			100					2	r21,qty=2							r22																																																																																							0
-2 rune 22 -> rune 23	1			100					2	r22,qty=2							r23																																																																																							0
-2 rune 23 -> rune 24	1			100					2	r23,qty=2							r24																																																																																							0
-2 rune 24 -> rune 25	1			100					2	r24,qty=2							r25																																																																																							0
-2 rune 25 -> rune 26	1			100					2	r25,qty=2							r26																																																																																							0
-2 rune 26 -> rune 27	1			100					2	r26,qty=2							r27																																																																																							0
-2 rune 27 -> rune 28	1			100					2	r27,qty=2							r28																																																																																							0
-2 rune 28 -> rune 29	1			100					2	r28,qty=2							r29																																																																																							0
-2 rune 29 -> rune 30	1			100					2	r29,qty=2							r30																																																																																							0
-2 rune 30 -> rune 31	1			100					2	r30,qty=2							r31																																																																																							0
-2 rune 31 -> rune 32	1			100					2	r31,qty=2							r32																																																																																							0
-2 rune 32 -> rune 33	1			100					2	r32,qty=2							r33																																																																																							0
+2 rune 01 -> rune 02	1			100					1	r01,qty=1							r02																																																																																							0
+2 rune 02 -> rune 03	1			100					1	r02,qty=1							r03																																																																																							0
+2 rune 03 -> rune 04	1			100					1	r03,qty=1							r04																																																																																							0
+2 rune 04 -> rune 05	1			100					1	r04,qty=1							r05																																																																																							0
+2 rune 05 -> rune 06	1			100					1	r05,qty=1							r06																																																																																							0
+2 rune 06 -> rune 07	1			100					1	r06,qty=1							r07																																																																																							0
+2 rune 07 -> rune 08	1			100					1	r07,qty=1							r08																																																																																							0
+2 rune 08 -> rune 09	1			100					1	r08,qty=1							r09																																																																																							0
+2 rune 09 -> rune 10	1			100					1	r09,qty=1							r10																																																																																							0
+2 rune 10 -> rune 11	1			100					1	r10,qty=1							r11																																																																																							0
+2 rune 11 -> rune 12	1			100					1	r11,qty=1							r12																																																																																							0
+2 rune 12 -> rune 13	1			100					1	r12,qty=1							r13																																																																																							0
+2 rune 13 -> rune 14	1			100					1	r13,qty=1							r14																																																																																							0
+2 rune 14 -> rune 15	1			100					1	r14,qty=1							r15																																																																																							0
+2 rune 15 -> rune 16	1			100					1	r15,qty=1							r16																																																																																							0
+2 rune 16 -> rune 17	1			100					1	r16,qty=1							r17																																																																																							0
+2 rune 17 -> rune 18	1			100					1	r17,qty=1							r18																																																																																							0
+2 rune 18 -> rune 19	1			100					1	r18,qty=1							r19																																																																																							0
+2 rune 19 -> rune 20	1			100					1	r19,qty=1							r20																																																																																							0
+2 rune 20 -> rune 21	1			100					1	r20,qty=1							r21																																																																																							0
+2 rune 21 -> rune 22	1			100					1	r21,qty=1							r22																																																																																							0
+2 rune 22 -> rune 23	1			100					1	r22,qty=1							r23																																																																																							0
+2 rune 23 -> rune 24	1			100					1	r23,qty=1							r24																																																																																							0
+2 rune 24 -> rune 25	1			100					1	r24,qty=1							r25																																																																																							0
+2 rune 25 -> rune 26	1			100					1	r25,qty=1							r26																																																																																							0
+2 rune 26 -> rune 27	1			100					1	r26,qty=1							r27																																																																																							0
+2 rune 27 -> rune 28	1			100					1	r27,qty=1							r28																																																																																							0
+2 rune 28 -> rune 29	1			100					1	r28,qty=1							r29																																																																																							0
+2 rune 29 -> rune 30	1			100					1	r29,qty=1							r30																																																																																							0
+2 rune 30 -> rune 31	1			100					1	r30,qty=1							r31																																																																																							0
+2 rune 31 -> rune 32	1			100					1	r31,qty=1							r32																																																																																							0
+2 rune 32 -> rune 33	1			100					1	r32,qty=1							r33																																																																																							0
+2 rune 33 -> toa	1			100					1	r33,qty=1							toa																																																																																							0
+hpot -> r01	1			100					1	hpot,any							r01																																																																																							0
+rare type -> rare type	1			100					1	any,rar							usetype,rar	99																																																																																						0
+rare type + antidote-> unique type	1			100					2	any,rar	yps						usetype,uni	99																																																																																						0
+任意武器+血瓶=白色武器	1			100					2	weap,any	hpot,any						usetype,hiq	99																																																																																						0
+任意防具+血瓶=白色武器	1			100					2	armo,any	hpot,any						usetype,hiq	99																																																																																						0
+防具up1	1			100					2	armo,bas	mpot,any						usetype,mod,exc																																																																																							0
+防具up1	1			100					2	armo,exc	mpot,any						usetype,mod,eli																																																																																							0
+武器up1	1			100					2	weap,bas	mpot,any						usetype,mod,exc																																																																																							0
+武器up1	1			100					2	weap,exc	mpot,any						usetype,mod,eli																																																																																							0
+武器 + R06 -> 6 sockets	1			100					2	weap,any	r06						useitem				sock			6	6																																																																															0
+武器 + R05 -> 5 sockets	1			100					2	weap,any	r05						useitem				sock			5	5																																																																															0
+武器 + R04 -> 4 sockets	1			100					2	weap,any	r04						useitem				sock			4	4																																																																															0
+武器 + R03 -> 3 sockets	1			100					2	weap,any	r03						useitem				sock			3	3																																																																															0
+武器 + R02 -> 2 sockets	1			100					2	weap,any	r02						useitem				sock			2	2																																																																															0
+武器 + R01 -> 1 sockets	1			100					2	weap,any	r01						useitem				sock			1	1																																																																															0
+防具 + R06 -> 6 sockets	1			100					2	armo,any	r06						useitem				sock			6	6																																																																															0
+防具 + R05 -> 5 sockets	1			100					2	armo,any	r05						useitem				sock			5	5																																																																															0
+防具 + R04 -> 4 sockets	1			100					2	armo,any	r04						useitem				sock			4	4																																																																															0
+防具 + R03 -> 3 sockets	1			100					2	armo,any	r03						useitem				sock			3	3																																																																															0
+防具 + R02 -> 2 sockets	1			100					2	armo,any	r02						useitem				sock			2	2																																																																															0
+防具 + R01 -> 1 sockets	1			100					2	armo,any	r01						useitem				sock			1	1																																																																															0
 *****Reroll Recipes*****																																																																																																								0
 3 perfect gems + 1 magic item -> magic item	1			100					4	any,mag	gem4,qty=3						usetype,mag		100																																																																																					0
 3 perfect gems + 1 unique item -> regenerate unique item	1			100					4	any,uni	gem4,qty=3						useitem,reg																																																																																							0
@@ -113,6 +135,12 @@ weapon + Hellfire Torch + Annihilus + SoJ -> unique weapon	1			100					4	weap	He
 armor + Hellfire Torch + Annihilus + SoJ -> unique armor	1			100					4	armo	Hellfire Torch	Annihilus	The Stone of Jordan				usetype,uni	99																																																																																						0
 weapon + Hellfire Torch + Annihilus + Zod rune -> set weapon	1			100					4	weap	Hellfire Torch	Annihilus	r33				usetype,set	99																																																																																						0
 armor + Hellfire Torch + Annihilus + Zod rune -> set armor	1			100					4	armo	Hellfire Torch	Annihilus	r33				usetype,set	99																																																																																						0
+Normal type -> unique type	1			100					1	any,nor							usetype,uni	99																																																																																						0
+Normal type -> unique type	1			100					1	any,low							usetype,uni	99																																																																																						0
+Normal type -> unique type	1			100					1	any,hiq							usetype,uni	99																																																																																						0
+Magic type -> set type	1			100					1	any,mag							usetype,set	99																																																																																						0
+Unique type -> unique type	1			100					1	any,uni							usetype,uni	99																																																																																						0
+Set type -> set type	1			100					1	any,set							usetype,set	99																																																																																						0
 *****Utility Recipes*****																																																																																																								0
 r08 + weapon -> repair + recharge	1			100					2	weap	r08						useitem,rep,rch,qty=255																																																																																							0
 r08 + armor -> repair + recharge	1			100					2	armo	r08						useitem,rep,rch,qty=255																																																																																							0
@@ -120,8 +148,8 @@ r15 + tsc + any socketed item -> unsocket item (keep gems)	1			100					3	any,soc
 *****Runeword Prep Recipes*****																																																																																																								0
 any weapon + token of absolution -> normal, unsocketed, nonethereal weapon	1			100					2	weap	toa						usetype,nor,nos,noe		100																																																																																					0
 any armor + token of absolution -> normal, unsocketed, nonethereal armor	1			100					2	armo	toa						usetype,nor,nos,noe		100																																																																																					0
-Eth(r05) + normal weapon -> ethereal weapon	1			100					2	weap,nor,nos	r05						usetype,eth,nor,nos		100																																																																																					0
-Eth(r05) + normal armor -> ethereal armor	1			100					2	armo,nor,nos	r05						usetype,eth,nor,nos		100																																																																																					0
+Eth(r07) + normal weapon -> ethereal weapon	1			100					2	weap,nor,nos	r07						usetype,eth,nor,nos		100																																																																																					0
+Eth(r07) + normal armor -> ethereal armor	1			100					2	armo,nor,nos	r07						usetype,eth,nor,nos		100																																																																																					0
 Normal weapon + 4 pgem -> 6 sockets	1			100					5	weap,nor,nos	rin,qty=4						useitem				sock			6	6																																																																															0
 Normal weapon + 3 pgem + 1 flawless -> 5 sockets	1			100					5	weap,nor,nos	rin,qty=3	amu					useitem				sock			5	5																																																																															0
 Normal weapon + 3 pgem -> 4 sockets	1			100					4	weap,nor,nos	rin,qty=3						useitem				sock			4	4																																																																															0
