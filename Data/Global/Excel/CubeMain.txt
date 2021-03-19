@@ -105,7 +105,15 @@ assassin tab 3 charm	1			100				ass	5	cm3,mag	rin,uni	gem3,qty=3					cm3,mag,pre
 2 rune 31 -> rune 32	1			100					1	r31,qty=1							r32																																																																																							0
 2 rune 32 -> rune 33	1			100					1	r32,qty=1							r33																																																																																							0
 2 rune 33 -> toa	1			100					1	r33,qty=1							toa																																																																																							0
+*****My edit*****																																																																																																								0
 hpot -> r01	1			100					1	hpot,any							r01																																																																																							0
+Normal type -> unique type	1			100					1	any,nor							usetype,uni	99																																																																																						0
+Normal type -> unique type	1			100					1	any,low							usetype,uni	99																																																																																						0
+Normal type -> unique type	1			100					1	any,hiq							usetype,uni	99																																																																																						0
+Magic type -> set type	1			100					1	any,mag							usetype,set	99																																																																																						0
+Unique type -> unique type	1			100					1	any,uni							usetype,uni	99																																																																																						0
+Set type -> set type	1			100					1	any,set							usetype,set	99																																																																																						0
+magic type + antidote-> rare type	1			100					2	any,mag	yps						usetype,rar	99																																																																																						0
 rare type -> rare type	1			100					1	any,rar							usetype,rar	99																																																																																						0
 rare type + antidote-> unique type	1			100					2	any,rar	yps						usetype,uni	99																																																																																						0
 任意武器+血瓶=白色武器	1			100					2	weap,any	hpot,any						usetype,hiq	99																																																																																						0
@@ -135,12 +143,6 @@ weapon + Hellfire Torch + Annihilus + SoJ -> unique weapon	1			100					4	weap	He
 armor + Hellfire Torch + Annihilus + SoJ -> unique armor	1			100					4	armo	Hellfire Torch	Annihilus	The Stone of Jordan				usetype,uni	99																																																																																						0
 weapon + Hellfire Torch + Annihilus + Zod rune -> set weapon	1			100					4	weap	Hellfire Torch	Annihilus	r33				usetype,set	99																																																																																						0
 armor + Hellfire Torch + Annihilus + Zod rune -> set armor	1			100					4	armo	Hellfire Torch	Annihilus	r33				usetype,set	99																																																																																						0
-Normal type -> unique type	1			100					1	any,nor							usetype,uni	99																																																																																						0
-Normal type -> unique type	1			100					1	any,low							usetype,uni	99																																																																																						0
-Normal type -> unique type	1			100					1	any,hiq							usetype,uni	99																																																																																						0
-Magic type -> set type	1			100					1	any,mag							usetype,set	99																																																																																						0
-Unique type -> unique type	1			100					1	any,uni							usetype,uni	99																																																																																						0
-Set type -> set type	1			100					1	any,set							usetype,set	99																																																																																						0
 *****Utility Recipes*****																																																																																																								0
 r08 + weapon -> repair + recharge	1			100					2	weap	r08						useitem,rep,rch,qty=255																																																																																							0
 r08 + armor -> repair + recharge	1			100					2	armo	r08						useitem,rep,rch,qty=255																																																																																							0
